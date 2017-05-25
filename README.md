@@ -1,2 +1,6 @@
 # GC05-Code
-Matlab code for computing Pmax on a transect using GC05
+
+
+Pmax_GC.m - Matlab function for computing Pmax on a transect using GC05
+
+example.zip - Compressed folder containing example for using the Pmax_GC function
